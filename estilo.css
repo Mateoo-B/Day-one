@@ -9,7 +9,6 @@ body {
 }
 
 #container {
-    text-align: center;
     position: relative; /* Added to support absolute positioning of children */
 }
 
